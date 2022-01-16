@@ -3,7 +3,6 @@
 """ Parsing data from the site https://uain.press/ """
 
 main.py
-//////////////////////////////////////////
 '''Parsing categories'''
 
 # URL = 'https://uain.press/blogs'
@@ -12,7 +11,6 @@ main.py
 # URL = 'https://uain.press/interview'
 # URL = 'https://uain.press/articles'
 # URL = 'https://uain.press/photos'
-//////////////////////////////////////////
 
 We receive data in encoding 'utf-8'
 
